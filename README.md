@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Renan-De-Paula/Renan-De-Paula/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/Renan-De-Paula/Renan-De-Paula/main/banner.png" /><br><br>
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Renan De Paula</h1>
@@ -13,9 +13,19 @@
 <h2 align="center">🚀 Sobre mim</h2>
 
 <p align="center">
-Sou desenvolvedor focado em construir aplicações completas, atuando no Back-end e Front-end.<br>
-Tenho experiência com Python, Java e desenvolvimento web, criando projetos práticos e funcionais.<br>
-Busco minha primeira oportunidade para aplicar meus conhecimentos e evoluir profissionalmente.
+Desenvolvedor Full Stack Jr com foco em aplicações reais.<br>
+Experiência com Python, Java e desenvolvimento web.<br>
+Busco minha primeira oportunidade para gerar valor com código e evoluir rapidamente.
+</p>
+
+---
+
+<h2 align="center">⚡ Diferenciais</h2>
+
+<p align="center">
+✔️ Projetos práticos publicados<br>
+✔️ Foco em aplicações completas (front + back)<br>
+✔️ Evolução contínua e aprendizado rápido
 </p>
 
 ---
@@ -48,18 +58,16 @@ Busco minha primeira oportunidade para aplicar meus conhecimentos e evoluir prof
 
 <p>
 🧾 <b>Sistema PDV (Python / Django)</b><br>
-Sistema de vendas com controle de estoque e produtos
+Sistema de vendas com controle de estoque e produtos<br>
+<a href="https://github.com/Renan-De-Paula/Projeto_integrador_1_Univesp">🔗 Ver projeto</a>
 </p>
 
 <p>
 🥊 <b>Jogo de Luta (Pygame)</b><br>
-Sistema de combate com personagens e animações
+Sistema de combate com personagens e animações<br>
+<a href="LINK_DO_PROJETO">🔗 Ver projeto</a>
 </p>
 
-<p>
-🌐 <b>Landing Pages (HTML, CSS, JS)</b><br>
-Páginas responsivas e estruturadas
-</p>
 
 </div>
 
@@ -68,7 +76,7 @@ Páginas responsivas e estruturadas
 <h2 align="center">📈 Objetivo</h2>
 
 <p align="center">
-🎯 Desenvolvedor Full Stack Jr<br>
+🎯 Atuar como Desenvolvedor Full Stack Jr
 💡 Trabalhar com projetos reais e evoluir constantemente
 </p>
 
@@ -77,7 +85,7 @@ Páginas responsivas e estruturadas
 <h2 align="center">📫 Contato</h2>
 
 <p align="center">
-  <a [href="https://www.linkedin.com/](https://www.linkedin.com/in/renan-de-paula-7ba232158/)">
+  <a href="https://www.linkedin.com/in/renan-de-paula-7ba232158/">">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
