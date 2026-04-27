@@ -5,11 +5,8 @@
 <h1 align="center">👋 Olá, eu sou o Renan</h1>
 
 <p align="center">
-  💻 Python & Java Developer | Back-end & Front-end Jr <br>
-  🎓 ADS (Senac) | TI (cursando - Univesp) <br>
-  🚀 Projetos reais com foco em aplicações completas <br>
-  🎯 Open to work • Full Stack Jr
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=25&center=true&vCenter=true&width=500&lines=Python+Developer;Java+Developer;Full+Stack+Junior;Open+to+WorkADS+(Senac),T+(cursando-Univesp),Projetos+reais+com+foco+em+aplicações+completas," />
+  </p>
 
 ---
 
@@ -43,7 +40,7 @@ Busco minha primeira oportunidade para aplicar meus conhecimentos e evoluir prof
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=25&center=true&vCenter=true&width=500&lines=Python+Developer;Java+Developer;Full+Stack+Junior;Open+to+Work" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Renan-De-Paula&theme=radical" />
 </p>
 
 ---
