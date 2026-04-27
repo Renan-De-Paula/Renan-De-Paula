@@ -2,10 +2,9 @@
   <img src="https://raw.githubusercontent.com/Renan-De-Paula/Renan-De-Paula/main/banner.png" /><br><br>
 </p>
 
-<h1 align="center">👋 Olá, eu sou o Renan De Paula</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=25&center=true&vCenter=true&width=500&lines=Python+Developer;Java+Developer;Full+Stack+Junior;Open+to+Work;ADS+(Senac);TI+(cursando+-+Univesp);Projetos+reais;foco+em+aplicações+completas" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=25&center=true&vCenter=true&width=500&lines=Python+Developer;Java+Developer;Full+Stack+Junior;Open+to+Work;Projetos+reais;foco+em+aplicações+completas" />
   </p>
 
 ---
