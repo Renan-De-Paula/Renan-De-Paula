@@ -49,11 +49,11 @@ Busco minha primeira oportunidade para aplicar meus conhecimentos e evoluir prof
 🧾 <b>Sistema PDV (Python / Django)</b><br>
 Sistema de vendas com controle de estoque e produtos<br><br>
 </p>
-<p align="cente>
+<p align="cente">
 🥊 <b>Jogo de Luta (Pygame)</b><br>
 Sistema de combate com personagens e animações<br><br>
 </p>
-<p align="cente >
+<p align="cente">
 🌐 <b>Landing Pages (HTML, CSS, JS)</b><br>
 Páginas responsivas e estruturadas
 </p>
