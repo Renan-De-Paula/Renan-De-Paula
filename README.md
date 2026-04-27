@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Renan-De-Paula/Renan-De-Paula/main/banner.png" /><br>
+  <img src="https://raw.githubusercontent.com/Renan-De-Paula/Renan-De-Paula/main/banner.png" /><br><br>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=40&center=true&vCenter=true&width=500&lines=Python+Developer;Java+Developer;Full+Stack+Junior;Open+to+Work;Projetos+Reais" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=25&center=true&vCenter=true&width=500&lines=Python+Developer;Java+Developer;Full+Stack+Junior;Open+to+Work;Projetos+Reais" />
   </p>
 
 ---
 
-<h2 align="center">🚀 Sobre mim</h2>
+<h1 align="center">🚀 Sobre mim</h1>
 
 <p align="center">
 Desenvolvedor Full Stack Jr com foco em aplicações reais.<br>
@@ -20,7 +20,7 @@ Busco minha primeira oportunidade para gerar valor com código e evoluir rapidam
 <h2 align="center">⚡ Diferenciais</h2>
 
 <p align="center">
-✔️ Projetos práticos publicados<br>
+✔️ Projetos reais publicados no GitHub<br>
 ✔️ Foco em aplicações completas (front + back)<br>
 ✔️ Evolução contínua e aprendizado rápido
 </p>
@@ -56,12 +56,14 @@ Busco minha primeira oportunidade para gerar valor com código e evoluir rapidam
 <p>
 🧾 <b>Sistema PDV (Python / Django)</b><br>
 Sistema de vendas com controle de estoque e produtos<br>
+💻 Python • Django • SQLite<br>
 <a href="https://github.com/Renan-De-Paula/Projeto_integrador_1_Univesp">🔗 Ver projeto</a>
 </p>
 
 <p>
 🥊 <b>Jogo de Luta (Pygame)</b><br>
 Sistema de combate com personagens e animações<br>
+ 💻 Python • PyGame<br>
 <a href="LINK_DO_PROJETO">🔗 Ver projeto</a>
 </p>
 
@@ -73,7 +75,7 @@ Sistema de combate com personagens e animações<br>
 <h2 align="center">📈 Objetivo</h2>
 
 <p align="center">
-🎯 Atuar como Desenvolvedor Full Stack Jr
+🎯 Atuar como Desenvolvedor Full Stack Jr<br>
 💡 Trabalhar com projetos reais e evoluir constantemente
 </p>
 
@@ -82,7 +84,7 @@ Sistema de combate com personagens e animações<br>
 <h2 align="center">📫 Contato</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/renan-de-paula-7ba232158/">">
+  <a href="https://www.linkedin.com/in/renan-de-paula-7ba232158/">  
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
