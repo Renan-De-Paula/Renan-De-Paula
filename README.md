@@ -19,11 +19,7 @@ Busco minha primeira oportunidade para aplicar meus conhecimentos e evoluir prof
 </p>
 
 ---
-<h2 align="center">📊 Linguagens</h2>
 
-<p align="center">
-  <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-De-Paula&layout=donut&theme=radical"/>
-</p>
 
 <h2 align="center">🧠 Tecnologias</h2>
 
@@ -35,12 +31,13 @@ Busco minha primeira oportunidade para aplicar meus conhecimentos e evoluir prof
   <img height="45" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img height="45" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
 ---
 
 <h2 align="center">📊 Estatísticas</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renan-De-Paula&show_icons=true&theme=tokyonight"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=Renan-De-Paula&show_icons=true&bg_color=0d1117&title_color=00ffcc&icon_color=ff00ff&text_color=ffffff&border_radius=20"/>
 </p>
 
 <p align="center">
