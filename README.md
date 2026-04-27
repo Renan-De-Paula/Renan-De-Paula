@@ -45,17 +45,24 @@ Busco minha primeira oportunidade para aplicar meus conhecimentos e evoluir prof
 
 <h2 align="center">🔥 Projetos em destaque</h2>
 
-<p align="center">
+<div align="center">
+
+<p>
 🧾 <b>Sistema PDV (Python / Django)</b><br>
-Sistema de vendas com controle de estoque e produtos<br><br>
+Sistema de vendas com controle de estoque e produtos
+</p>
 
+<p>
 🥊 <b>Jogo de Luta (Pygame)</b><br>
-Sistema de combate com personagens e animações<br><br>
+Sistema de combate com personagens e animações
+</p>
 
+<p>
 🌐 <b>Landing Pages (HTML, CSS, JS)</b><br>
 Páginas responsivas e estruturadas
 </p>
 
+</div>
 ---
 
 <h2 align="center">📈 Objetivo</h2>
