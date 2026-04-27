@@ -43,7 +43,7 @@ Busco minha primeira oportunidade para aplicar meus conhecimentos e evoluir prof
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-De-Paula&layout=donut&theme=radical" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=25&center=true&vCenter=true&width=500&lines=Python+Developer;Java+Developer;Full+Stack+Junior;Open+to+Work" />
 </p>
 
 ---
