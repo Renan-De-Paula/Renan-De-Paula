@@ -54,17 +54,17 @@ Busco minha primeira oportunidade para gerar valor com código e evoluir rapidam
 <div align="center">
 
 <p>
-🧾 <b>Sistema PDV (Python / Django)</b><br>
+🧾 <b>Forno & Afeto (Sistema PDV) (Python / Django)</b><br>
 Sistema de vendas com controle de estoque e produtos<br>
 💻 Python • Django • SQLite<br>
 <a href="https://github.com/Renan-De-Paula/Projeto_integrador_1_Univesp">🔗 Ver projeto</a>
 </p>
 
 <p>
-🥊 <b>Jogo de Luta (Pygame)</b><br>
-Sistema de combate com personagens e animações<br>
+🥊 <b>Pantheon Fighters (Jogo de Luta)(Pygame)</b><br>
+Sistema de seleçao, combate com personagens e animações<br>
  💻 Python • PyGame<br>
-<a href="LINK_DO_PROJETO">🔗 Ver projeto</a>
+<a href="https://github.com/Renan-De-Paula/Pantheon-Fighters">🔗 Ver projeto</a>
 </p>
 
 
