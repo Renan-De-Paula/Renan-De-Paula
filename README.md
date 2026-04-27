@@ -20,7 +20,6 @@ Busco minha primeira oportunidade para aplicar meus conhecimentos e evoluir prof
 
 ---
 
-
 <h2 align="center">🧠 Tecnologias</h2>
 
 <p align="center">
@@ -63,6 +62,7 @@ Páginas responsivas e estruturadas
 </p>
 
 </div>
+
 ---
 
 <h2 align="center">📈 Objetivo</h2>
@@ -77,7 +77,7 @@ Páginas responsivas e estruturadas
 <h2 align="center">📫 Contato</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a [href="https://www.linkedin.com/](https://www.linkedin.com/in/renan-de-paula-7ba232158/)">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
