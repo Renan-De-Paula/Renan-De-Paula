@@ -44,7 +44,7 @@ Busco minha primeira oportunidade para aplicar meus conhecimentos e evoluir prof
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Renan-De-Paula&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Renan-De-Paula&show_icons=true&theme=radical" />
 </p>
 
 ---
