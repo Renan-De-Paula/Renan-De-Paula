@@ -19,20 +19,22 @@ Busco minha primeira oportunidade para aplicar meus conhecimentos e evoluir prof
 </p>
 
 ---
+<h2 align="center">📊 Linguagens</h2>
 
-<h2 align="center">🧠 Tecnologias</h2>
+<p align="center">
+  <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-De-Paula&layout=donut&theme=radical"/>
+</p>
 
 <h2 align="center">🧠 Tecnologias</h2>
 
 <p align="center">
-  <img height="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img height="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img height="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img height="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img height="40" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img height="45" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img height="45" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img height="45" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img height="45" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img height="45" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img height="45" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
 ---
 
 <h2 align="center">📊 Estatísticas</h2>
@@ -50,19 +52,16 @@ Busco minha primeira oportunidade para aplicar meus conhecimentos e evoluir prof
 <h2 align="center">🔥 Projetos em destaque</h2>
 
 <p align="center">
-
 🧾 <b>Sistema PDV (Python / Django)</b><br>
 Sistema de vendas com controle de estoque e produtos<br><br>
-
-🎮 <b>Jogo estilo Metal Slug (Pygame)</b><br>
-Jogo 2D com movimentação, combate e progressão<br><br>
-
+</p>
+<p align="cente>
 🥊 <b>Jogo de Luta (Pygame)</b><br>
 Sistema de combate com personagens e animações<br><br>
-
+</p>
+<p align="cente >
 🌐 <b>Landing Pages (HTML, CSS, JS)</b><br>
 Páginas responsivas e estruturadas
-
 </p>
 
 ---
