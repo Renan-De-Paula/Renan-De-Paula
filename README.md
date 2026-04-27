@@ -43,7 +43,7 @@ Busco minha primeira oportunidade para gerar valor com código e evoluir rapidam
 <h2 align="center">📊 Estatísticas</h2>
 
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Renan-De-Paula&show_icons=true&bg_color=0d1117&title_color=00ffcc&icon_color=ff00ff&text_color=ffffff&border_color=ff00ff"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Renan-De-Paula&show_icons=true&bg_color=0d1117&title_color=00ffcc&icon_color=ff00ff&text_color=ffffff&border_color=ff00ff"/>
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-De-Paula&layout=donut&langs_count=6&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&border_color=ff00ff"/>
 </p>
 
