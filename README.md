@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Renan-De-Paula/Renan-De-Paula/main/banner.png" />
 </p>
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=25&center=true&vCenter=true&width=500&lines=👋+Olá;Eu+sou+o+Renan+De+Paula" /></h1>
+<h1 align="center">👋 Olá, eu sou o Renan De Paula</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=25&center=true&vCenter=true&width=500&lines=Python+Developer;Java+Developer;Full+Stack+Junior;Open+to+Work;ADS+(Senac);TI+(cursando+-+Univesp);Projetos+reais;foco+em+aplicações+completas" />
@@ -22,13 +22,15 @@ Busco minha primeira oportunidade para aplicar meus conhecimentos e evoluir prof
 
 <h2 align="center">🧠 Tecnologias</h2>
 
+<h2 align="center">🧠 Tecnologias</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk" />
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
+  <img height="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -40,7 +42,7 @@ Busco minha primeira oportunidade para aplicar meus conhecimentos e evoluir prof
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Renan-De-Paula&theme=radical" />
+  <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-De-Paula&layout=donut&langs_count=6&bg_color=0d1117&title_color=ffcc00&text_color=ffffff"/>
 </p>
 
 ---
